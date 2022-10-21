@@ -1,0 +1,16 @@
+UNTUK MENGUBAH FOLDER DARI UNBK KE YANG LAIN. UBAH JUGA DI FILE CONFIG.PHP
+karna kalau tidak di ubah akan berpengaruh terhadap styling
+
+UNTUK MENGAKSES HALAMAN ADMIN
+localhost/unbk/admin/index.php
+atau bisa juga 
+localhost/unbk/login.php
+
+USER : ADMIN
+PASSWORD : ADMIN
+
+untuk login siswa harus sesuai dengan data siswa, hanya admin/petugas yang dapat memberikan data siswa
+baik password maupun no. registrasi
+
+
+Untuk menjalankan applikasi ini di rekomendasikan php versi 7.4 
